@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "86698184446",
+    "project_id": "chaty-fd549",
+    "storage_bucket": "chaty-fd549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86698184446:android:aaa3afeaa26e17e38a5faf",
+        "android_client_info": {
+          "package_name": "com.example.chaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86698184446-o0sdpu31dm1e06c56gi1tdv0a77eoopi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaty",
+            "certificate_hash": "ace5e6bb280df7c3a75c651ac9e4bf1862bcd6d7"
+          }
+        },
+        {
+          "client_id": "86698184446-j6ajasid2ag2ht5vte2htamsgetcoaer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhyJWbtbzHMIWz7mdp0GGx6nzdHSklig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86698184446-j6ajasid2ag2ht5vte2htamsgetcoaer.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86698184446-b03hd67u6g42mjj60a2qg4ljtmfg27m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chaty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
